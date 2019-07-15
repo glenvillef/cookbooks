@@ -1,0 +1,8 @@
+name 'https-nginx-letsEncrypt'
+maintainer 'Glenville J Fanoo'
+maintainer_email 'glenville.fanoo@gmail.com'
+license 'All Rights Reserved'
+description 'Installs/Configures https-nginx-letsEncrypt'
+long_description 'Installs/Configures https-nginx-letsEncrypt'
+version '0.1.0'
+chef_version '>= 14.0'
