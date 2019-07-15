@@ -1,6 +1,6 @@
 # https-nginx-letsEncrypt
 
-##TODO: This cookbook assists you to quickly install and configure Nginx with HTTPS and Let's Encrypt. 
+## TODO: This cookbook assists you to quickly install and configure Nginx with HTTPS and Let's Encrypt. 
 
 ### Maintainers
 This cookbook is maintained by Glenville Fanoo. 
